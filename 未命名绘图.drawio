@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="83f_WDFYDTiC7E0U7w7g-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="40" y="440" width="210" height="210" as="geometry" />
+        <mxCell id="83f_WDFYDTiC7E0U7w7g-1" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 14px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;1、数据分类&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 14px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;2、数据同步方式&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 14px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;3、数据触发方式&lt;/div&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 14px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;4、数据预处理融合&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="40" y="540" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="uF6mSDZLpJN5wUJK4P2C-1" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 18px; font-weight: 700; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;数据收集与预处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="538" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
